@@ -1,6 +1,7 @@
 # math+reading
 <p>This is NOT real math or reading, instead its apps/games</p>
-# meanings
+<p></p>
+<h1>Meanings</h1>
 math folder=apps
 reading folder=games
 # math files
